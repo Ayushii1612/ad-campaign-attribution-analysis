@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+statsmodels
+PuLP
+openpyxl
+matplotlib
+seaborn
+sqlalchemy
+jupyter
+ipykernel
+python-dotenv

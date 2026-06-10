@@ -1,0 +1,7 @@
+Channel,Channel_Type,Channel_Cost,Funnel_Stage,Total_Budget_INR
+Google Search,Paid Search,High,Bottom,500000
+YouTube,Video,High,Top,300000
+Meta Feed,Social,Medium,Mid,400000
+Instagram Stories,Social,Medium,Mid,200000
+Email,Owned,Low,Bottom,100000
+Direct,Direct,None,Bottom,50000

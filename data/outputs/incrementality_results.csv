@@ -1,0 +1,7 @@
+channel,test_n,holdout_n,test_purchase_rate,holdout_purchase_rate,incremental_rate,z_stat,p_value,significant_95,test_rev_per_user,holdout_rev_per_user,incremental_rev_per_user,test_basket_size,holdout_basket_size,total_incremental_rev,ad_spend,incremental_roas,verdict
+Direct,115140,49346,0.0998,0.1005,-0.0007,-0.421,0.6736,False,92.13,91.88,0.25,923.43,914.69,28848.84,19993.5,1.443,⚠️  Inconclusive — not statistically significant
+Meta Feed,191824,82211,0.0806,0.0814,-0.0008,-0.683,0.4947,False,74.24,74.21,0.04,920.72,911.5,6996.32,560886.4,0.012,⚠️  Inconclusive — not statistically significant
+Instagram Stories,115278,49406,0.0815,0.0824,-0.0009,-0.595,0.5517,False,75.21,75.26,-0.04,922.39,913.09,-4890.86,79906.0,-0.061,⚠️  Inconclusive — not statistically significant
+Google Search,242780,104050,0.0915,0.0923,-0.0009,-0.8,0.4238,False,84.32,84.92,-0.6,921.57,919.53,-145819.39,600358.0,-0.243,⚠️  Inconclusive — not statistically significant
+Email,115408,49461,0.09,0.0925,-0.0025,-1.648,0.0994,False,82.85,83.23,-0.38,920.6,899.37,-43532.44,39979.4,-1.089,⚠️  Inconclusive — not statistically significant
+YouTube,192056,82310,0.0709,0.0732,-0.0023,-2.128,0.0333,True,65.49,67.15,-1.66,923.7,917.58,-319432.15,240306.6,-1.329,🔴 NEGATIVE — channel is hurting conversions
